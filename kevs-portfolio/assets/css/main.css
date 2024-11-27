@@ -6,6 +6,6 @@
   font-display: swap;
 }
 
-h1 {
-  color: black;
+html {
+  background-color: rgb(22 101 52);
 }
